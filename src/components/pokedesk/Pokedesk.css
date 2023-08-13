@@ -1,0 +1,12 @@
+
+
+.pokedesk_wrapper{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#pokedeskheading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+}
